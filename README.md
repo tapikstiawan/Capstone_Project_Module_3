@@ -10,7 +10,7 @@ Untuk meminimalisir kerugian dari kesalahan klasifikasi (khususnya false negativ
 ---
 
 ❓ **Problem Statement:**
-- Bagaimana membangun model machine learning yang mampu memprediksi pelanggan berisiko churn secara lebih akurat dan efisien dibanding metode rule-based sebelumnya?
+- Bagaimana membangun model machine learning yang mampu memprediksi pelanggan berisiko churn secara akurat ?
 - Fitur-fitur apa saja yang paling berkontribusi dalam menentukan risiko churn dan bagaimana fitur tersebut dapat dimanfaatkan oleh tim bisnis untuk strategi retensi?
 
 ---
